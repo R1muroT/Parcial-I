@@ -50,3 +50,33 @@
 .social{
     padding-left: 5px;
 }
+.contactos{
+    background: #fff9;
+}
+
+
+.formulario{
+    width: 99%;
+    border-top: none ;
+    border-right: 2px;
+    border-top: 2px;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+    border-color: #aad821;
+}
+
+.titulo_cafe{
+    text-align: center;
+    color: #eefb8b;
+}
+
+.cafe{
+    margin-top: 4px;
+    width: 800px;
+    border-radius: 5px;
+    margin-left: 22%;
+}
+.servicio{
+    background: #b89e98;
+}
